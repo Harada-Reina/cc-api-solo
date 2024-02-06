@@ -1,0 +1,1 @@
+CREATE DATABASE cc_solo_project;
